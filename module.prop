@@ -1,0 +1,7 @@
+id=Noto-Runic
+name=Noto Runic
+version=1.0
+versionCode=1
+author=DerVerruckteFuchs
+description=Systemlessly apply the Noto Sans Runic font.
+minMagisk=1700
